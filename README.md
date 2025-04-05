@@ -40,17 +40,3 @@ An efficient Java-based online dairy store with graphical and web interfaces, en
 - **JBCrypt** for password encryption
 
 ---
-
-## 📦 Dependencies
-
-```plaintext
-javafx.controls
-javafx.fxml
-project lombok
-mysql.connector.j
-java.sql
-org.hibernate.orm.core
-jakarta.persistence
-java.naming
-org.kordamp.bootstrapfx.core
-jbcrypt
